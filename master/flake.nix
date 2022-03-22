@@ -9,7 +9,7 @@
   
   inputs.src-skEasing-master.flake = false;
   inputs.src-skEasing-master.owner = "Skrylar";
-  inputs.src-skEasing-master.ref   = "refs/heads/master";
+  inputs.src-skEasing-master.ref   = "master";
   inputs.src-skEasing-master.repo  = "skEasing";
   inputs.src-skEasing-master.type  = "github";
   
