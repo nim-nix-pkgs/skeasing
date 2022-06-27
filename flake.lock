@@ -52,11 +52,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653702371,
-        "narHash": "sha256-bG/yOJhDhMX+/QN9K3NEWsw6pxpTg2dApJe7Qc7h/pE=",
+        "lastModified": 1656298091,
+        "narHash": "sha256-uGEhhM8pW31UONfPBPIt+p4udAiLmEBG+Uu9hXbOi/w=",
         "owner": "nim-nix-pkgs",
         "repo": "skeasing",
-        "rev": "3abd0e1535aebe2e5977a15402b0c6399542f245",
+        "rev": "af7ab23fd19c0bc2e1c903f0cce0fb67d84f86bc",
         "type": "github"
       },
       "original": {
