@@ -219,11 +219,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668749056,
-        "narHash": "sha256-55m+KrAdq87JPv2TMfR/GL8TP8QcvD+l1Gb2f+iZEkE=",
+        "lastModified": 1668754817,
+        "narHash": "sha256-unuHM6CBVfFUaAfD4rUUpW6+B5qx+CUHwI5jn4wnSgI=",
         "owner": "nim-nix-pkgs",
         "repo": "skeasing",
-        "rev": "2032e7f1f5a9c884e756aaaaa130656ca9f7c69f",
+        "rev": "fc608e3e766e824ff84cb74c3d2d43eaad96d421",
         "type": "github"
       },
       "original": {
